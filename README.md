@@ -1,20 +1,35 @@
-# To-Do App
+# ✅ To-Do App
 
-A command-line To-Do application built with Python.
+A simple task management web application.
 
-## Features
+## ✨ Features
 
 - Add tasks
+- Mark tasks as completed
 - Delete tasks
-- View tasks
-- Save tasks
+- Simple interface
 
-## Technologies
+## 🛠️ Technologies
 
-- Python
+- HTML5
+- CSS3
 
-## Future Plans
+## 🚀 Run
 
-- GUI
-- Categories
-- Due dates
+Open `index.html`.
+
+## 📚 Skills Practiced
+
+- HTML
+- CSS
+- UI Design
+
+## 🌱 Future Updates
+
+- JavaScript functionality
+- Local Storage
+- Task filtering
+
+---
+
+Made with ❤️ by Sevinch
